@@ -39,3 +39,11 @@ Please use the Verdaccio logo under the following guidelines:
   <img alt="Verdaccio logo (olive outline in flat circle)" src="https://github.com/kgrubb/verdaccio-assets/blob/master/verdaccio-olive.png?raw=true" width="500"/>
 </p>
 
+### Olive Only
+
+[SVG](olive-only.svg) or [PNG](olive-only.png)
+
+<p align="center">
+  <img alt="Verdaccio olive" src="https://github.com/kgrubb/verdaccio-assets/blob/master/olive-only.png?raw=true" width="500"/>
+</p>
+
