@@ -36,7 +36,7 @@ Please use the Verdaccio logo under the following guidelines:
 [SVG](verdaccio-olive.svg) or [PNG](verdaccio-olive.png)
 
 <p align="center">
-  <img alt="Verdaccio logo (olive outline in flat circle)" src="https://github.com/kgrubb/verdaccio-assets/blob/master/verdaccio-olive.png?raw=true" width="500"/>
+  <img alt="Verdaccio logo (olive outline in flat circle)" src="https://github.com/kgrubb/verdaccio-assets/blob/master/verdaccio-olive.png?raw=true" width="150"/>
 </p>
 
 ### Olive Only
@@ -44,6 +44,6 @@ Please use the Verdaccio logo under the following guidelines:
 [SVG](olive-only.svg) or [PNG](olive-only.png)
 
 <p align="center">
-  <img alt="Verdaccio olive" src="https://github.com/kgrubb/verdaccio-assets/blob/master/olive-only.png?raw=true" width="500"/>
+  <img alt="Verdaccio olive" src="https://github.com/kgrubb/verdaccio-assets/blob/master/olive-only.png?raw=true" width="100"/>
 </p>
 
