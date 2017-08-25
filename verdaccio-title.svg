@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="4359px" height="994px" viewBox="0 0 4359 994" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
-    <title>Logo Title</title>
+<svg width="5097px" height="880px" viewBox="0 0 5097 880" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Logo-Title</title>
     <desc>Created with Sketch.</desc>
-    <defs>
-        <text id="text-1" font-family="Niconne-Regular, Niconne" font-size="1250" font-weight="normal" fill="#4B5E40">
-            <tspan x="2287" y="1533">Verdaccio</tspan>
-        </text>
-        <filter x="-1.4%" y="-3.9%" width="102.8%" height="108.1%" filterUnits="objectBoundingBox" id="filter-2">
-            <feOffset dx="1" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
-            <feGaussianBlur stdDeviation="20" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
-            <feColorMatrix values="0 0 0 0 0.490196078   0 0 0 0 0.490196078   0 0 0 0 0.490196078  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
-        </filter>
-    </defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Full-Logo" transform="translate(-2249.000000, -603.000000)" stroke="#4B5E40">
-            <g id="Logo-Title">
-                <use fill="#4B5E40" fill-opacity="1" stroke-opacity="1" filter="url(#filter-2)" xlink:href="#text-1"></use>
-                <use fill="#4B5E40" fill-opacity="1" stroke-opacity="1" xlink:href="#text-1"></use>
-                <use xlink:href="#text-1"></use>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-weight="normal" font-family="STSongti-TC-Regular, Songti TC" font-size="1250">
+        <g id="verdaccio-circle-flat-full" transform="translate(-1380.000000, -412.000000)" stroke="#4B5E40" fill="#4B5E40">
+            <g id="Logo-Title" transform="translate(1395.000000, 0.000000)">
+                <text id="Verdaccio">
+                    <tspan x="0" y="1325">Verdaccio</tspan>
+                </text>
             </g>
         </g>
     </g>
