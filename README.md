@@ -47,3 +47,7 @@ Please use the Verdaccio logo under the following guidelines:
   <img alt="Verdaccio olive" src="https://github.com/kgrubb/verdaccio-assets/blob/master/olive-only.png?raw=true" width="100"/>
 </p>
 
+## License
+
+* The Verdaccio logo and its variations are licensed under the [Creative Commons License](./LICENSE).
+
